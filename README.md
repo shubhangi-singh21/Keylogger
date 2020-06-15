@@ -17,7 +17,7 @@ ____
 - [x] Ofline Support
 - [x] Cross-Platform
 - [x] No Signup/login required
-- [] E-Mail Feature (will try to incoporate)
-- [] Auto Launch
-- [] Auto Update
+- [ ] E-Mail Feature (will try to incoporate)
+- [ ] Auto Launch
+- [ ] Auto Update
 ____
