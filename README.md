@@ -21,3 +21,13 @@ ____
 - [ ] Auto Launch
 - [ ] Auto Update
 ____
+### Language Used
+#### C++
+____
+### Disclaimer
+#### This project is only for educational purpose. Any kind of misue performed under the name of this project is one's sole responsibilty. I am not not responsible for any such actions.
+____
+### Acknowledgment 
+#### This project is inspired from [I'm an inline-style link with title](https://www.youtube.com/user/HazardEdit "HazardEdit YouTube Link") and modified according to the owner's requirement.
+____
+
