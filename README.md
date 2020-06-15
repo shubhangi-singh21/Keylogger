@@ -7,7 +7,7 @@ ____
 #### Keystroke logging, often called Keylogger is a software that tracks or logs the keys struck on your keyboard 💻, typically in a covert manner so that you don't know that your actions are being monitored 👩‍💻.
 ____
 ### Installation
-#### You can download the repository using Git Bash or Browser.
+#### You can download the repository using Git Bash or Browser 🌎.
 #### Git bash command for downloading the repository:
 ```console
 git clone https://github.com/shubhangi-singh21/Keylogger
@@ -25,9 +25,9 @@ ____
 #### C++
 ____
 ### Disclaimer
-#### This project is only for educational purpose. Any kind of misue performed under the name of this project is one's sole responsibilty. I am not not responsible for any such actions.
+#### This project is only for educational purpose. Any kind of misue performed under the name of this project is one's sole responsibilty. I am not to be held responsible for any such actions 💁‍♀️.
 ____
 ### Acknowledgment 
-#### This project is inspired from [HardEdit's YouTube Video](https://www.youtube.com/user/HazardEdit "HazardEdit YouTube Link") and modified according to the owner's requirement.
+#### This project is inspired from [HardEdit's YouTube Video](https://www.youtube.com/user/HazardEdit "HazardEdit YouTube Link") ✨and modified according to the owner's requirement.
 ____
 
