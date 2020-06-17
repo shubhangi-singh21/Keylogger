@@ -14,12 +14,22 @@ git clone https://github.com/shubhangi-singh21/Keylogger
 ```
 ____
 ### Additional
-..* **GetAsyncKeyState()** : used to determine whether a key is up or down at the time the function is called, and whether the key was pressed after a previous call to GetAsyncKeyState. In simpler terms, this is used to check whether a button is pressed or not on the input devices. 
-..* **Save()** : used to save the pressed keys in the file *log.txt*.
-..* **Virtual Key Codes** : to check the equivalent virtual key codes of symbolic constant names, hexadecimal values, and mouse or keyboard, [check this link](https://docs.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes "Microsoft VirtualKey Codes")
-..* **ASCII Character Table** : Check out the [ASCII Code Table](http://www.asciitable.com/ "ASCII Table") here.
-..* **FreeConsole ()** : A process can use the *FreeConsole* function to detach itself from its console. If other processes share the console, the console is not destroyed, but the process that called *FreeConsole* cannot refer to it. A console is closed when the last process attached to it terminates or calls *FreeConsole*. 
-..* **Sleep ()** : used to suspends the execution of the program for a specified period of time. This time period is specified as an argument to the *Sleep ()* function.
+- **GetAsyncKeyState()** : used to determine whether a key is up or down at the time the function is called, and whether the key was pressed after a previous call to GetAsyncKeyState. In simpler terms, this is used to check whether a button is pressed or not on the input devices. 
+
+
+- **Save()** : used to save the pressed keys in the file *log.txt*.
+
+
+- **Virtual Key Codes** : to check the equivalent virtual key codes of symbolic constant names, hexadecimal values, and mouse or keyboard, [check this link](https://docs.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes "Microsoft VirtualKey Codes").
+
+
+- **ASCII Character Table** : Check out the [ASCII Code Table](http://www.asciitable.com/ "ASCII Table") here.
+
+
+- **FreeConsole ()** : A process can use the *FreeConsole* function to detach itself from its console. If other processes share the console, the console is not destroyed, but the process that called *FreeConsole* cannot refer to it. A console is closed when the last process attached to it terminates or calls *FreeConsole*. 
+
+
+- **Sleep ()** : used to suspends the execution of the program for a specified period of time. This time period is specified as an argument to the *Sleep ()* function.
 ____
 ### Features
 - [x] Ofline Support
