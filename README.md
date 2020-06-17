@@ -14,7 +14,7 @@ git clone https://github.com/shubhangi-singh21/Keylogger
 ```
 ____
 ### Additional
-- **GetAsyncKeyState()** : used to determine whether a key is up or down at the time the function is called, and whether the key was pressed after a previous call to GetAsyncKeyState. In simpler terms, this is used to check whether a button is pressed or not on the input devices. 
+- **GetAsyncKeyState()** : used to determine whether a key is up or down 🔼🔽 at the time the function is called, and whether the key was pressed after a previous call to GetAsyncKeyState. In simpler terms, this is used to check whether a button is pressed or not on the input devices. 
 
 
 - **Save()** : used to save the pressed keys in the file *log.txt*.
@@ -26,7 +26,7 @@ ____
 - **ASCII Character Table** : Check out the [ASCII Code Table](http://www.asciitable.com/ "ASCII Table") here.
 
 
-- **FreeConsole ()** : A process can use the *FreeConsole* function to detach itself from its console. If other processes share the console, the console is not destroyed, but the process that called *FreeConsole* cannot refer to it. A console is closed when the last process attached to it terminates or calls *FreeConsole*. 
+- **FreeConsole ()** : A process can use the *FreeConsole* function to detach itself from its console 🕶. If other processes share the console, the console is not destroyed, but the process that called *FreeConsole* cannot refer to it. A console is closed when the last process attached to it terminates or calls *FreeConsole*. 
 
 
 - **Sleep ()** : used to suspends the execution of the program for a specified period of time. This time period is specified as an argument to the *Sleep ()* function.
@@ -35,12 +35,15 @@ ____
 - [x] Ofline Support
 - [x] Cross-Platform
 - [x] No Signup/login required
-- [ ] E-Mail Feature (will try to incoporate)
+- [ ] E-Mail Feature (will try to incoporate soon 👩‍💻)
 - [ ] Auto Launch
 - [ ] Auto Update
 ____
 ### Language Used
 #### C++
+____
+### Contributing
+When contributing to this repository 🍴, please discuss the change you wish to make via issue, [email](mailto:singhshubhangi211@gmail.com), or any other method with the me before making a change 🙋‍♂️.
 ____
 ### Disclaimer
 #### This project is only for educational purpose. Any kind of misue performed under the name of this project is one's sole responsibilty. I am not to be held responsible for any such actions 💁‍♀️.
