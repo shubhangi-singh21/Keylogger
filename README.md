@@ -39,6 +39,11 @@ ____
 - [ ] Auto Launch
 - [ ] Auto Update
 ____
+### Demo
+
+![screen_recorder_video_2020_20_6_15_40_15](https://user-images.githubusercontent.com/66862125/85199981-592a9400-b311-11ea-9219-66cef3c09433.gif)
+
+____
 ### Language Used
  C++
 ____
