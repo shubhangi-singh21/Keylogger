@@ -56,10 +56,6 @@ ____
 
 
 4.	Another workaround is to install a secure **password manager**. Password managers will securely *store your passwords* 🔑 and automatically log you in when you enter your various accounts. Your passwords will be vulnerable the first time you enter them, but you can use the onscreen keyboard mentioned above. If you’re not sure at any point, you can change passwords frequently in your password manager.
-
-____
-### Language Used
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="200">
 ____
 ### Contributing
 When contributing to this repository 🍴, please discuss the change you wish to make via issue, [email](mailto:singhshubhangi211@gmail.com), or any other method with the me before making a change 🙋‍♂️.
@@ -76,3 +72,5 @@ Author - Shubhangi Singh ©
 
 Contact Info - [Email here](mailto:singhshubhangi211@gmail.com)
 ____
+### Language Used
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="90">
