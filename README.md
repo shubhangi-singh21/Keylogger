@@ -59,7 +59,7 @@ ____
 
 ____
 ### Language Used
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png =250x "C++")
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="200">
 ____
 ### Contributing
 When contributing to this repository 🍴, please discuss the change you wish to make via issue, [email](mailto:singhshubhangi211@gmail.com), or any other method with the me before making a change 🙋‍♂️.
